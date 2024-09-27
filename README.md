@@ -4,7 +4,7 @@ This repository contains Tableau dashboards for analyzing sales data across vari
 
 ## Dashboard 1: Profit Analysis
 
-![Profit Analysis Dashboard](./Tableau_Dashbpard_Profit_Analysis.png)
+![Profit Analysis Dashboard](https://github.com/thilaksai2481/Buisness-Insights--using-Tableau-SQL-/blob/c48a8d02431193c781516a1f92d4f611e6e68386/Tableau%20Dashbpard%20Profit%20Analysis.png)
 
 ### Dashboard Overview
 The **Profit Analysis Dashboard** focuses on visualizing the total revenue, profit margins, and revenue by markets. This allows users to quickly analyze market performance and profitability across different regions.
@@ -24,7 +24,7 @@ The **Profit Analysis Dashboard** focuses on visualizing the total revenue, prof
 
 ## Dashboard 2: Revenue and Sales Quantity Analysis
 
-![Revenue and Sales Quantity Dashboard](Tableau_Dashbpard_Revenue_Analysis.png)
+![Revenue and Sales Quantity Dashboard]()
 
 ### Dashboard Overview
 The **Revenue and Sales Quantity Analysis Dashboard** emphasizes revenue and sales quantity metrics, displaying how different markets and products perform in terms of sales numbers and revenue generation.
