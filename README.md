@@ -4,7 +4,7 @@ This repository contains Tableau dashboards for analyzing sales data across vari
 
 ## Dashboard 1: Profit Analysis
 
-![Profit Analysis Dashboard](Tableau_Dashbpard_Profit_Analysis.png)
+![Profit Analysis Dashboard](./Tableau_Dashbpard_Profit_Analysis.png)
 
 ### Dashboard Overview
 The **Profit Analysis Dashboard** focuses on visualizing the total revenue, profit margins, and revenue by markets. This allows users to quickly analyze market performance and profitability across different regions.
