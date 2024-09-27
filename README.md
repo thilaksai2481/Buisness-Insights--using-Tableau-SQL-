@@ -24,7 +24,7 @@ The **Profit Analysis Dashboard** focuses on visualizing the total revenue, prof
 
 ## Dashboard 2: Revenue and Sales Quantity Analysis
 
-![Revenue and Sales Quantity Dashboard]()
+![Revenue and Sales Quantity Dashboard](https://github.com/thilaksai2481/Buisness-Insights--using-Tableau-SQL-/blob/91f88e4fef0bad8291a9432615f5406c9f0ab5db/Tableau%20Dashbpard%20Revenue%20Analysis.png)
 
 ### Dashboard Overview
 The **Revenue and Sales Quantity Analysis Dashboard** emphasizes revenue and sales quantity metrics, displaying how different markets and products perform in terms of sales numbers and revenue generation.
