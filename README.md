@@ -2,7 +2,7 @@
 
 This repository contains a Tableau dashboard designed to analyze sales data across different markets. The dashboard provides insights into total revenue, profit margins, and sales trends across years and market segments.
 
-![Dashboard Screenshot](/Tableau_Dashboard_Profit_Analysis.png)
+![Dashboard Screenshot](./Tableau_Dashboard_Profit_Analysis.png)
 
 ## Dashboard Overview
 
