@@ -48,7 +48,7 @@ Data Analysis Using Tableau
 Tableau Public Dashboards: Revenue & Profit Analysis  
 Creating Star Schema in Tableau
  
-Tableau Dashboard - Revenue Analysis
+![Tableau Dashboard]_(./Tableau Dashbpard Profit Analysis.png) 
  
 Tableau Dashboard - Profit Analysis
  
